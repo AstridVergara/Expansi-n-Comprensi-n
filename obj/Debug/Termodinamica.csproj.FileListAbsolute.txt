@@ -1,0 +1,11 @@
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\bin\Debug\Termodinamica.exe.config
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\bin\Debug\Termodinamica.exe
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\bin\Debug\Termodinamica.pdb
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.Properties.Resources.resources
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.csproj.GenerateResource.cache
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.exe
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.pdb
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.Compresion.resources
+C:\Users\Manuel\source\repos\Termodinamica\Termodinamica\obj\Debug\Termodinamica.Imagen.resources
